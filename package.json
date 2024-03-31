@@ -1,6 +1,6 @@
 {
   "name": "onedionys-progressive-web-app-utilities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Progressive Web App Utilities) - Functions and components that support progressive web app (PWA) development, including homepage installation, full-screen setup, and offline handling.",
   "main": "src/index.js",
   "directories": {
